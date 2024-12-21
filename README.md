@@ -89,7 +89,7 @@ CREATE TABLE Sales(
 ```
 
 ### 2. Loading Data from csv file into Tables 
-```sql
+```mysql
 -- Enabling loading data into the files.
 SET GLOBAL local_infile=ON;   
 
