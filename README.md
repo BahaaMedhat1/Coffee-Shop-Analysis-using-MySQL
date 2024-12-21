@@ -111,6 +111,7 @@ ENCLOSED BY '"'
 LINES TERMINATED BY "\r\n"
 IGNORE 1 ROWS ;
 
+
 -- Loading Data into Product Table.
 LOAD DATA LOCAL INFILE "D:/Projects/MySQL/8 - Monday Coffee/products.csv"
 INTO TABLE product
@@ -234,7 +235,7 @@ ORDER BY COUNT(s.product_id) DESC;
 ```
 
 ### 5. What are the top 3 selling products in each city based on sales volume?
-```
+```sql
 WITH city_product AS (
     SELECT
         city.city_name,
