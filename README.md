@@ -1,4 +1,6 @@
 # Coffee Shop Sales Analysis Project
+[Watch the video](https://github.com/username/repo-name/blob/main/path-to-video/video1274598109.mp4)
+
 
 ## Overview
 
