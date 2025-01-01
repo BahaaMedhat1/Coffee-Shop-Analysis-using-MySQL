@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **Coffee Shop Sales Analysis** system built using MySQL. It includes database schema creation, data loading, and a series of queries to analyze and gain insights into the sales performance, customer behavior, and product popularity.
+This project is a Coffee Shop Sales Analysis system developed using MySQL to analyze sales performance, customer behavior, and product popularity. It includes database schema creation, data loading, and a series of exploratory data analysis (EDA) queries to derive actionable insights for business decision-making.
 
 ---
 
